@@ -2,5 +2,5 @@
 
 A CLI Purple Tool
 
-#Compatiblity
+# Compatiblity
 Compatible with all devices vulnerable to checkm8

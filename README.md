@@ -6,5 +6,5 @@ A CLI Purple Tool
 Compatible with all devices vulnerable to checkm8
 
 # IMPORTANT
-Before you can use ipwndfu, eclipsa, run this command in Terminal (remember to cd into Exploit folder):  chmod -R 777 ./
+Before you can use ipwndfu, eclipsa, run this command in Terminal (remember to cd into Exploit folder): <br /> chmod -R 777 ./
 
